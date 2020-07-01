@@ -6,4 +6,6 @@ This is a very simple crowd control ai, I made using Ai service and AIspwner obj
 # Edit 
 
 # This was an old project i just exported the low poly .fbx and textures. you can find the folder here,
+# CrowdAi/Content/ThirdPersonBP/Maps/Knife/
+
 
